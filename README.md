@@ -7,6 +7,6 @@ To achieve this goal, we will use Open Data from the [Center for Investigation a
 
 After applying ETL techniques to these data, we will create data models to facilitate understanding, representation and availability of new information, for example: filtering occurrences by city, state, day, number of occurrences by classification, among others. With this new knowledge, they can be used to make important decisions that will reduce the number of aeronautical incidents or accidents.
 
-### Data Source:
+### Data Source
 
 We use as an example a file with aeronautical occurrence data available [here](https://dados.gov.br/dataset/ocorrencias-aeronauticas-da-aviacao-civil-brasileira/resource/9d8a7e09-5f75-47b3-891b-b5f1bab26d59)

@@ -1,6 +1,8 @@
 ###### ETL_Anaconda_Pandas_Pandera_Python_JupyterLab
 # ETL Fundamentals with Anaconda Pandas Pandera Python JupyterLab
 
+### Goals
+
 This project intends to learn ETL (Extract, Transform, Load) Extraction, Validation, Cleaning and Data Transformation.
 
 To achieve this goal, we will use Open Data from the [Center for Investigation and Prevention of Aeronautical Accidents](https://www2.fab.mil.br/cenipa/). It is the body of the Aeronautics Command responsible for the investigation of aeronautical accidents in civil aviation and the Brazilian Air Force.
